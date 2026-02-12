@@ -1,0 +1,12 @@
+[
+  {"id":"atk_1","name":"锋刃强化 I","desc":"攻击力 +10%","rarity":"common","modifiers":{"atk_mul":1.1}},
+  {"id":"atk_2","name":"锋刃强化 II","desc":"攻击力 +20%","rarity":"rare","modifiers":{"atk_mul":1.2}},
+  {"id":"aspd_1","name":"连斩节奏","desc":"攻击速度 +12%","rarity":"common","modifiers":{"aspd_mul":1.12}},
+  {"id":"aspd_2","name":"高速斩击","desc":"攻击速度 +22%","rarity":"rare","modifiers":{"aspd_mul":1.22}},
+  {"id":"crit_1","name":"要害洞察","desc":"暴击率 +6%","rarity":"common","modifiers":{"crit_add":0.06}},
+  {"id":"crit_2","name":"猎手直觉","desc":"暴击率 +12%","rarity":"rare","modifiers":{"crit_add":0.12}},
+  {"id":"roll_1","name":"滑步训练","desc":"翻滚冷却 -12%","rarity":"common","modifiers":{"roll_cd_mul":0.88}},
+  {"id":"roll_2","name":"残影步","desc":"翻滚冷却 -22%","rarity":"rare","modifiers":{"roll_cd_mul":0.78}},
+  {"id":"explode","name":"余烬爆裂","desc":"击杀触发爆炸","rarity":"epic","modifiers":{"on_kill_explode":true}},
+  {"id":"glass_cannon","name":"破釜沉舟","desc":"攻击 +35%，生命上限 -20%","rarity":"epic","modifiers":{"atk_mul":1.35,"max_hp_mul":0.8}}
+]

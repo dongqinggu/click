@@ -1,0 +1,20 @@
+{
+  "Charger": {
+    "hp": 60,
+    "atk": 10,
+    "speed": 170,
+    "knockback_resist": 0.1
+  },
+  "Shooter": {
+    "hp": 45,
+    "atk": 12,
+    "speed": 120,
+    "knockback_resist": 0.0
+  },
+  "Bomber": {
+    "hp": 55,
+    "atk": 16,
+    "speed": 95,
+    "knockback_resist": 0.2
+  }
+}

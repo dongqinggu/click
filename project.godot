@@ -1,0 +1,10 @@
+; Engine configuration file.
+; Minimal Godot project bootstrap.
+config_version=5
+
+[application]
+config/name="Neon Slash"
+run/main_scene="res://scenes/game/Main.tscn"
+
+[rendering]
+renderer/rendering_method="forward_plus"
